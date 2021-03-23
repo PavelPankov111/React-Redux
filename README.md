@@ -1,2 +1,4 @@
-# Небольшое приложение на React + Redux (redux-thunk, saga)
-# Start: npm install, npm start
+# _Небольшое приложение на React + Redux (redux-thunk, saga)_
+``` javascript
+Start: npm install + npm start
+```
